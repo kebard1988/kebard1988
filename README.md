@@ -11,6 +11,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:woman_technologist: About Me :
+:boy: About Me :
 
 I am a Full Stack Developer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> from India.
