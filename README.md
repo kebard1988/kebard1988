@@ -17,7 +17,7 @@
 
 - :telescope: Я работаю в сфере связи но в свободное время занимаюсь созданием внешнего интерфейса и внутреннего взаимодействия и обработки ресурсов, также взаимодействие с веб-приложением..
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучаю документацию и пробую реализовать фичи.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
