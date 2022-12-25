@@ -15,7 +15,7 @@
 
 Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> пробую попасть в Android Developer
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Я работаю в сфере связи но в свободное время занимаюсь созданием внешнего интерфейса и внутреннего взаимодействия и обработки ресурсов, также взаимодействие с веб-приложением..
 
 - :seedling: Exploring Technical Content Writing.
 
