@@ -13,4 +13,4 @@
 </div>
 :boy: About Me :
 
-I am a Full Stack Developer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> from India.
+Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> пробую попасть в Android Developer
