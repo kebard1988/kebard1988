@@ -13,4 +13,4 @@
 </div>
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> from India.
