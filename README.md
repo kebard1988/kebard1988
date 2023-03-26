@@ -15,13 +15,13 @@
 ### :woman_technologist: About Me :
 
 
-Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> пробую попасть в Android Developer
+Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> build go
 
-- :man_beard: Я работаю в сфере занимаюсь созданием внешнего интерфейса и внутреннего взаимодействия и обработки ресурсов, также взаимодействие с веб-API..
+- :man_beard: web-API..
 
-- :man_beard: Изучаю документацию и пробую реализовать фичи.
+- :man_beard: ).
 
-- :man_beard: В свободное время решаю задачи на codewars.
+- :man_beard: go.
 
 ---
 
