@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 
 
-Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> DevOps build go
+Привет меня зовут Игорь Ардынович <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png" width="30"> DevOps build CI/CD
 
 Bulma + Buefy + VueJS + nodejs + docker + Portainer + go + git 
 
