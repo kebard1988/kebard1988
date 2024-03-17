@@ -25,6 +25,8 @@ Bulma + Buefy + VueJS + nodejs + docker + go + git - мой любимый на�
 
 - :man_beard: go.
 
+- :man_beard: Telegram kebard1988
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
